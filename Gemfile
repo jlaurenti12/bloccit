@@ -45,3 +45,6 @@ gem 'thor', '0.19.1'
 group :development do
   gem 'listen', '~> 3.0.5'
 end
+
+# Used for encrypting passwords
+gem 'bcrypt'
