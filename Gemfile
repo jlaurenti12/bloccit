@@ -21,6 +21,7 @@ group :development, :test do
     gem 'rails-controller-testing'
     gem 'sqlite3'
     gem 'shoulda'
+    gem "factory_bot_rails"
   end
 
 gem 'bootstrap-sass'
