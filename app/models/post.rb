@@ -33,4 +33,5 @@ class Post < ApplicationRecord
     update_attribute(:rank, new_rank)
   end
 
+
 end
